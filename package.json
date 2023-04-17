@@ -1,0 +1,24 @@
+{
+  "name": "proyecto-node",
+  "version": "1.0.0",
+  "description": "my primer proyecto con bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "saludar":"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "script": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karol1226/primer-proyecto-js.git"
+  },
+  "author": "kar1226",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karol1226/primer-proyecto-js/issues"
+  },
+  "homepage": "https://github.com/karol1226/primer-proyecto-js#readme"
+}
